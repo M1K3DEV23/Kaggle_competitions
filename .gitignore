@@ -135,13 +135,16 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.titanc/
 .env
 .venv
 env/
 venv/
 ENV/
+titanc/
 env.bak/
 venv.bak/
+titanic.bak/
 
 # Spyder project settings
 .spyderproject
